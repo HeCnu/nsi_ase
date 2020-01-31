@@ -1,0 +1,76 @@
+[
+  {
+    "classID": 10,
+    "className": "Продукция машиностроения",
+    "extClasses": [
+      {
+        "classID": 1003,
+        "className": "Продукция тяжелого, энергетического и транспортного машиностроения",
+        "extClasses": [
+          {
+            "classID": 100303,
+            "className": "Оборудование транспортирующее газожидкостную среду",
+            "extClasses": [
+              {
+                "classID": 10030306,
+                "className": "Насосы",
+                "extClasses": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "classID": 15,
+    "className": "Продукция радиоэлектронная и вычислительная",
+    "extClasses": [
+      {
+        "classID": 1508,
+        "className": "Техника вычислительная, профессиональная",
+        "extClasses": [
+          {
+            "classID": 150802,
+            "className": "Комплектующие компьютерные",
+            "extClasses": [
+              {
+                "classID": 15080201,
+                "className": "Диски жесткие",
+                "extClasses": [
+                  {
+                    "classID": 1508020101,
+                    "className": "Диски жесткие HDD",
+                    "extClasses": []
+                  }
+                ]
+              },
+              {
+                "classID": 15080209,
+                "className": "Модуль памяти",
+                "extClasses": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "classID": 19,
+    "className": "Продукция химической промышленности",
+    "extClasses": [
+      {
+        "classID": 1901,
+        "className": "Изделия нематалические химической промышленности",
+        "extClasses": [
+          {
+            "classID": 190108,
+            "className": "Прокладки",
+            "extClasses": []
+          }
+        ]
+      }
+    ]
+  }
+]

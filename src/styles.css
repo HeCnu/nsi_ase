@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.message {
+  width: 100%;
+  display: inline-block;
+}
+
+.from {
+  max-width: 80%;
+  float: right;
+  background-color: #e4e4e4;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.to {
+  max-width: 80%;
+  float: left;
+  background-color: #e0eeff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button.send {
+  border-radius: 11px;
+  margin-left: 5px;
+  padding: 0px 8px;
+  border-color: #3993ff;
+  color: #3993ff;
+  font-size: larger;
+}
+
+.send {
+  display: inline-flex;
+  max-width: 92%;
+  border-radius: 15px;
+}
+
+.messageFooter {
+  margin-top: 10px;
+  width: 100%;
+  color: #3b94ff;
+}
+
+.delete {
+  color: #ff5959;
+}

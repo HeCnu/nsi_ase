@@ -1,0 +1,410 @@
+[
+  {
+    "objectID": 1393686,
+    "objectName": "Модуль памяти Fury",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "16 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3400 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "HyperX"
+      }
+    ]
+  },
+  {
+    "objectID": 1489621,
+    "objectName": "Модуль памяти MPSAM162500R4",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "16 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "2500 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Samsung"
+      }
+    ]
+  },
+  {
+    "objectID": 1126358,
+    "objectName": "Модуль памяти M378A1G43TB1-CTD",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "8 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3000 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Samsung"
+      }
+    ]
+  },
+  {
+    "objectID": 1097927,
+    "objectName": "Модуль памяти DigitalWorld",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "32 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3500 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Corsair"
+      }
+    ]
+  },
+  {
+    "objectID": 1328021,
+    "objectName": "Насос UPS 40-50 F 250 95906420 Grundfos",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "8 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "5 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "230 В."
+      },
+      {
+        "attrName": "Номинальная частота",
+        "attrValue": "50 Гц"
+      }
+    ]
+  },
+  {
+    "objectID": 1328022,
+    "objectName": "Насос UPS 35-45 F 300 95912354 Grundfos",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "5 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "4 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "230 В."
+      },
+      {
+        "attrName": "Номинальная частота",
+        "attrValue": "50 Гц"
+      }
+    ]
+  },
+  {
+    "objectID": 1328023,
+    "objectName": "Насос UPS 70-80 F 450 95956234 Grundfos",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "10 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "7 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "230 В."
+      },
+      {
+        "attrName": "Номинальная частота",
+        "attrValue": "50 Гц"
+      }
+    ]
+  },
+  {
+    "objectID": 1388598,
+    "objectName": "Насос погружной ГНОМ-53-10Тр",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "53 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "10 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "380 В."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "1500 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1388597,
+    "objectName": "Насос погружной ГНОМ-60-12Тр",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "60 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "12 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "380 В."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "1800 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1388599,
+    "objectName": "Насос погружной ГНОМ-40-8Тр",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "40 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "8 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "380 В."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "1400 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1392008,
+    "objectName": "Диск жесткий 400-AHID Dell",
+    "basicMU": "шт.",
+    "classID": "1508020101",
+    "attr": [
+      {
+        "attrName": "Тип жесткого диска",
+        "attrValue": "HDD"
+      },
+      {
+        "attrName": "Максимальный объем памяти",
+        "attrValue": "8 Тб"
+      },
+      {
+        "attrName": "Интерфейс подключения накопителя",
+        "attrValue": "SATA 6Gb/s"
+      },
+      {
+        "attrName": "Скорость вращения шпинделя",
+        "attrValue": "7200 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1392007,
+    "objectName": "Диск жесткий 450-AHID WD",
+    "basicMU": "шт.",
+    "classID": "1508020101",
+    "attr": [
+      {
+        "attrName": "Тип жесткого диска",
+        "attrValue": "HDD"
+      },
+      {
+        "attrName": "Максимальный объем памяти",
+        "attrValue": "10 Тб"
+      },
+      {
+        "attrName": "Интерфейс подключения накопителя",
+        "attrValue": "SATA 6Gb/s"
+      },
+      {
+        "attrName": "Скорость вращения шпинделя",
+        "attrValue": "7200 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1392009,
+    "objectName": "Диск жесткий 300-AHID Baracuda",
+    "basicMU": "шт.",
+    "classID": "1508020101",
+    "attr": [
+      {
+        "attrName": "Тип жесткого диска",
+        "attrValue": "HDD"
+      },
+      {
+        "attrName": "Максимальный объем памяти",
+        "attrValue": "6 Тб"
+      },
+      {
+        "attrName": "Интерфейс подключения накопителя",
+        "attrValue": "SATA 6Gb/s"
+      },
+      {
+        "attrName": "Скорость вращения шпинделя",
+        "attrValue": "7200 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1265593,
+    "objectName": "Насос погружной Гном 40-25  с КОФ",
+    "basicMU": "шт.",
+    "classID": "10030306",
+    "attr": [
+      {
+        "attrName": "Подача",
+        "attrValue": "40 к.м./ч"
+      },
+      {
+        "attrName": "Напор",
+        "attrValue": "25 м."
+      },
+      {
+        "attrName": "Номинальное напряжение",
+        "attrValue": "380 В."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "3000 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1385789,
+    "objectName": "Прокладка Б-40-6.3 ПОН-ГОСТ 15180-86",
+    "basicMU": "шт.",
+    "classID": "190108",
+    "attr": [
+      {
+        "attrName": "Материал",
+        "attrValue": "ПОН"
+      },
+      {
+        "attrName": "Давление номинальное PN",
+        "attrValue": "6,3 Кг.с./кв. м."
+      },
+      {
+        "attrName": "Диаметр внешний",
+        "attrValue": "40 мм."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "3000 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1385788,
+    "objectName": "Прокладка Б-37-5.3 ПОН-ГОСТ 15181-86",
+    "basicMU": "шт.",
+    "classID": "190108",
+    "attr": [
+      {
+        "attrName": "Материал",
+        "attrValue": "ПОН"
+      },
+      {
+        "attrName": "Давление номинальное PN",
+        "attrValue": "3,3 Кг.с./кв. м."
+      },
+      {
+        "attrName": "Диаметр внешний",
+        "attrValue": "30 мм."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "3500 Об/м"
+      }
+    ]
+  },
+  {
+    "objectID": 1385789,
+    "objectName": "Прокладка Б-45-2.2 ПОН-ГОСТ 15180-86",
+    "basicMU": "шт.",
+    "classID": "190108",
+    "attr": [
+      {
+        "attrName": "Материал",
+        "attrValue": "ПОН"
+      },
+      {
+        "attrName": "Давление номинальное PN",
+        "attrValue": "2.2 Кг.с./кв. м."
+      },
+      {
+        "attrName": "Диаметр внешний",
+        "attrValue": "75 мм."
+      },
+      {
+        "attrName": "Номинальная частота вращения",
+        "attrValue": "2000 Об/м"
+      }
+    ]
+  }
+]

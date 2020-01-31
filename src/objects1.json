@@ -1,0 +1,194 @@
+[
+  {
+    "objectID": 1393686,
+    "objectName": "Модуль памяти Fury",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "16 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3400 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "HyperX"
+      }
+    ]
+  },
+  {
+    "objectID": 1489621,
+    "objectName": "Модуль памяти MPSAM162500R4",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "16 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "2500 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Samsung"
+      }
+    ]
+  },
+  {
+    "objectID": 1126358,
+    "objectName": "Модуль памяти M378A1G43TB1-CTD",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "8 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3000 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Samsung"
+      }
+    ]
+  },
+  {
+    "objectID": 1097927,
+    "objectName": "Модуль памяти DigitalWorld",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "32 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3500 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Corsair"
+      }
+    ]
+  },
+  {
+    "objectID": 1393686,
+    "objectName": "Модуль памяти Fury",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "16 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3400 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "HyperX"
+      }
+    ]
+  },
+  {
+    "objectID": 1489621,
+    "objectName": "Модуль памяти MPSAM162500R4",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "16 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "2500 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Samsung"
+      }
+    ]
+  },
+  {
+    "objectID": 1126358,
+    "objectName": "Модуль памяти M378A1G43TB1-CTD",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "8 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3000 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Samsung"
+      }
+    ]
+  },
+  {
+    "objectID": 1097927,
+    "objectName": "Модуль памяти DigitalWorld",
+    "basicMU": "шт.",
+    "classID": "15080209",
+    "attr": [
+      {
+        "attrName": "Тип памяти",
+        "attrValue": "DDR4"
+      },
+      {
+        "attrName": "Объем оперативной памяти",
+        "attrValue": "32 gb"
+      },
+      {
+        "attrName": "Тактовая частота оперативной памяти",
+        "attrValue": "3500 MHz"
+      },
+      {
+        "attrName": "Производитель",
+        "attrValue": "Corsair"
+      }
+    ]
+  }
+]
